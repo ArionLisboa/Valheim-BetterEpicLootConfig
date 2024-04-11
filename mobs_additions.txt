@@ -1,0 +1,16 @@
+# WRITE MOBS IDS IN NEW LINE FOLLOWED BY DESIRED TIER FOR IT
+# TIERS = 0, ..., 7; 0: meadows, 7: mistlands
+# Monstrum mobs
+Fox_TW 0
+Razorback_TW 0
+BlackBear_TW 1
+GDAncientShaman_TW 1
+Crawler_TW 2
+HelWraith_TW 2
+RottingElk_TW 3
+GrizzlyBear_TW 3
+ObsidianGolem_TW 4
+Prowler_TW 4
+
+
+# END
